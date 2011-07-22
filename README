@@ -1,0 +1,15 @@
+Installing:
+
+1. Copy everything from "vim" directory to your "~/.vim":
+	$ cp vim/* ~/.vim -r
+
+2. Copy "vimrc" file to "~/.vimrc":
+	$ cp vimrc ~/.vimrc
+
+*BEWARE!* This may overwrite your old configuration files.
+
+Includes:
+- Plugin to use 256 color themes (from gvim) on terminal
+- A few themes
+- Basic configuration (line numbering, tabs, default theme, indentation)
+- CoffeeScript highlighting plugin
